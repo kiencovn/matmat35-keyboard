@@ -1,3 +1,5 @@
- STLs files for 3D printing
+STLs files for 3D printing.
+ 
 Body1 is the case.
-Body21 is the promicro mount.
+
+Body21 is the promicro mount (usb type C)
