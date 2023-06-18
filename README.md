@@ -1,5 +1,5 @@
 # matmat35
-matmat35 is a handwired keyboard design which combines QAZ 11u and HHKB layout. Inspired by Dieter Rams's Snow White's Coffin design, the acrylic bottom piece helps to show off the hand-wiring parts.
+matmat35 is a hand-wiring keyboard design which combines QAZ 11u and HHKB layout. Inspired by Dieter Rams's Snow White's Coffin design, the acrylic bottom piece helps to show off the hand-wiring parts.
 
 STL files are made for 3d printing only, and must be modified in case of milling. The controller mount (body21.stl) was design for a Promicro controller with USB type-C connector, which has a slightly longer PCB than traditional one with micro usb. 
 
