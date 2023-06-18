@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/54994446/190990039-efeb203a-bfad-4d9c-
 
 ![alt text](https://github.com/kiencovn/matmat35-keyboard/blob/4ed1d90cb1305aef8cc40c0a18b177cacc030d7a/gallery/2610264e832944771d38.jpg)
 
-/o.i,nkm.,mkb vc
+
 
 Trivia : The flower pattern in the bottom part is rangoon creeper, one of my favorites. 
 
